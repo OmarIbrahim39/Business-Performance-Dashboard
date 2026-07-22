@@ -3,6 +3,8 @@
 
 An interactive, fully dynamic Excel Dashboard built to track and analyze core business KPIs — Subscribers, Leads, Revenue, Deals, Traffic Sources, and Regional Coverage — across a 4-year period (2025–2028), using pivot tables, Power Query, and dynamic charting instead of static reporting.
 
+<img width="1460" height="790" alt="image" src="https://github.com/user-attachments/assets/3305524f-8939-427d-b58c-4315d6d7af30" />
+
 
 🎯 Project Goal
 
